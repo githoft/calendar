@@ -1,4 +1,5 @@
-# No Good Days for Algos: Calendar 2026-2027
+# No Good Days for Algos  
+Calendar 2026-2027  
 
 ## 2026
 
