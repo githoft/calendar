@@ -130,21 +130,19 @@
 ## What the letters mean
 
 - **F**: FOMC decision day
-- **D**: double options expiration
 - **T**: triple options expiration (Friday; Thursday in June, when Friday is a market holiday)
 - **C**: CPI release
 - **N**: NFP release
 - **H**: market holiday (closed, or 1:00 PM early close)
 - **R**: Russell reconstitution
 - **M**: MSCI index review
+- **D**: double options expiration
 - Two letters together (for example **N/H**) mean events overlap on the same day.
 - The number in each month heading counts clean days only.
 
 ## What each letter already includes
 
 **F** marks the decision & press conference day only (Wednesday).
-
-**D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
 
 **T** covers the quarterly expiration day in Mar, Jun, Sep and Dec. The S&P 500 quarterly rebalance is included. The Nasdaq-100 quarterly rebalance is tied to the same third Friday. When that Friday is a market holiday, the rebalance volume shifts to the Thursday close, so **T** sits on the Thursday.
 
@@ -153,5 +151,7 @@
 **R**: the Russell US indexes reconstitute twice a year, in June and December.
 
 **M** is the least certain letter: it marks all four MSCI review closes, but only May has shown heavy volume. The other three did not produce meaningful volume spikes.
+
+**D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
 
 
