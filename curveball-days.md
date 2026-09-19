@@ -1,4 +1,5 @@
 # Algos Get Hit By External Factors  
+**Bold days** throw curveballs at ya
 
 ## 2026 Calendar
 
@@ -134,7 +135,6 @@
 - **R**: Russell reconstitution
 - **M**: MSCI index review
 - Two letters together (for example **N/H**) mean events overlap on the same day.
-- **Bold** days throw curveballs at ya.
 - The number in each month heading counts clean days only.
 
 ## What each letter already includes
