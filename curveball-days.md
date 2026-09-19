@@ -2,6 +2,8 @@
 
 #### Bold days throw curveballs at ya ⚾
 
+   
+
 ## 2026 Calendar
 
 ### January (16 clean)
@@ -126,6 +128,8 @@
 | W53 | 27 | 28 | 29 | 30 | 31 |   |   |
 
 #### 51 open-market days carry a curveball ⚾
+
+   
 
 ## What the letters mean
 
