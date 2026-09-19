@@ -142,7 +142,7 @@
 
 ## What each letter already includes
 
-**F** marks the decision day only (Wednesday).
+**F** marks the decision & press conference day only (Wednesday).
 
 **D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
 
