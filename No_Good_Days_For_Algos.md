@@ -1,4 +1,4 @@
-# No Good Days for Algos  
+# Algos Hit By External Factors  
 2026-2027 Calendars  
 
 ## 2026
