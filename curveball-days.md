@@ -1,5 +1,5 @@
 # Algos Get Hit By External Factors  
-#### **Bold days** throw curveballs at ya
+#### **Bold days** throw curveballs at ya ⚾
 
 ## 2026 Calendar
 
