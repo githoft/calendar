@@ -1,4 +1,5 @@
-# Algos Get Hit By External Factors  
+# Where Algos Swing and Miss  
+
 #### Bold days throw curveballs at ya ⚾
 
 ## 2026 Calendar
@@ -123,6 +124,8 @@
 | W51 | 13 | 14 | 15 | 16 | 17 | **18 T** | 19 |
 | W52 | 20 | 21 | 22 | 23 | **24 H** | **25 H** | 26 |
 | W53 | 27 | 28 | 29 | 30 | 31 |   |   |
+
+#### 51 open-market days carry a curveball ⚾
 
 ## What the letters mean
 
