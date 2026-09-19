@@ -4,7 +4,7 @@
 
 ### January (16 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W1 |   |   |   |   | **1 H** | 2 | 3 |
 | W2 | 4 | 5 | 6 | 7 | 8 | **9 N** | 10 |
@@ -14,7 +14,7 @@
 
 ### February (15 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W6 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | W7 | 8 | 9 | 10 | **11 N** | 12 | **13 C** | 14 |
@@ -23,7 +23,7 @@
 
 ### March (18 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W10 | 1 | 2 | 3 | 4 | 5 | **6 N** | 7 |
 | W11 | 8 | 9 | 10 | **11 C** | 12 | 13 | 14 |
@@ -33,7 +33,7 @@
 
 ### April (18 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W14 |   |   |   | 1 | 2 | **3 N/H** | 4 |
 | W15 | 5 | 6 | 7 | 8 | 9 | **10 C** | 11 |
@@ -43,7 +43,7 @@
 
 ### May (16 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W18 |   |   |   |   |   | 1 | 2 |
 | W19 | 3 | 4 | 5 | 6 | 7 | **8 N** | 9 |
@@ -54,7 +54,7 @@
 
 ### June (16 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W23 |   | 1 | 2 | 3 | 4 | **5 N** | 6 |
 | W24 | 7 | 8 | 9 | **10 C** | 11 | 12 | 13 |
@@ -64,7 +64,7 @@
 
 ### July (18 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W27 |   |   |   | 1 | **2 N** | **3 H** | 4 |
 | W28 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
@@ -74,7 +74,7 @@
 
 ### August (17 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W31 |   |   |   |   |   |   | 1 |
 | W32 | 2 | 3 | 4 | 5 | 6 | **7 N** | 8 |
@@ -85,7 +85,7 @@
 
 ### September (17 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W36 |   |   | 1 | 2 | 3 | **4 N** | 5 |
 | W37 | 6 | **7 H** | 8 | 9 | 10 | **11 C** | 12 |
@@ -95,7 +95,7 @@
 
 ### October (18 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W40 |   |   |   |   | 1 | **2 N** | 3 |
 | W41 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -105,7 +105,7 @@
 
 ### November (15 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W45 | 1 | 2 | 3 | 4 | 5 | **6 N** | 7 |
 | W46 | 8 | 9 | **10 C** | 11 | 12 | 13 | 14 |
@@ -115,7 +115,7 @@
 
 ### December (16 clean)
 
-| Wk | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| W | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|---|
 | W49 |   |   | 1 | 2 | 3 | **4 N** | 5 |
 | W50 | 6 | 7 | 8 | **9 F** | **10 C** | **11 R** | 12 |
