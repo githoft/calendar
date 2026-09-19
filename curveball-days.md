@@ -149,6 +149,6 @@
 
 **R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates.
 
-**M** is the least certain letter: it marks all four MSCI review closes (Feb 27, May 29, Aug 31, Nov 30), but only May has shown heavy volume (May 30, 2025; May 29, 2026). The other three did not produce meaningful volume spikes.
+**M** is the least certain letter: it marks all four MSCI review closes, but only May has shown heavy volume. The other three did not produce meaningful volume spikes.
 
 
