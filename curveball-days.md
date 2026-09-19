@@ -273,7 +273,7 @@
 
 **H** covers full closures and 1:00 PM early closes. When a release lands on a closed day, both letters show: Apr 3, 2026 is **N/H** (jobs report on Good Friday).
 
-**R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates. Jun 25 and Dec 10, 2027 follow the pattern (fourth Friday of June, second Friday of December) but are not yet confirmed dates.
+**R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates. Jun 25 and Dec 10, 2027 follow the pattern (fourth Friday of June, second Friday of December) but are not yet announced dates.
 
 **M**: only the May review is marked (May 29, 2026; May 27, 2027). MSCI lists May 28, 2027 as the effective date, and I read its convention as changes going in at the prior close. MSCI's Feb, Aug and Nov reviews are not marked (closes of Nov 30, 2026, Feb 26, Aug 31 and Nov 30, 2027) because they were not among the huge-volume days.
 
