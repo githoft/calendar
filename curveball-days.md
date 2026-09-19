@@ -142,7 +142,7 @@
 
 ## What each letter already includes
 
-**F** marks the decision day only (Wednesday). Meetings that publish the Summary of Economic Projections (March, June, September, December) are included.
+**F** marks the decision day only (Wednesday).
 
 **D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
 
