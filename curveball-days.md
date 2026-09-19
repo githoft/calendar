@@ -263,6 +263,20 @@
 - **Bold** days throw curveballs at ya.
 - The number in each month heading counts clean days only.
 
+## Notes: what each letter already includes
+
+**F** marks the decision day only (Wednesday). Meetings that publish the Summary of Economic Projections (March, June, September, December) are included.
+
+**D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
+
+**T** covers the quarterly expiration day in Mar, Jun, Sep and Dec. The S&P 500 quarterly rebalance is included. The Nasdaq-100 quarterly rebalance is tied to the same third Friday. When that Friday is a market holiday (Jun 19, 2026; Jun 18, 2027), the rebalance volume shifts to the Thursday close, so **T** sits on the Thursday.
+
+**H** covers full closures and 1:00 PM early closes. When a release lands on a closed day, both letters show: Apr 3, 2026 is **N/H** (jobs report on Good Friday).
+
+**R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates. Jun 25 and Dec 10, 2027 follow the pattern (fourth Friday of June, second Friday of December) but are not yet confirmed dates.
+
+**M**: only the May review is marked (May 29, 2026; May 27, 2027). MSCI lists May 28, 2027 as the effective date, and I read its convention as changes going in at the prior close. MSCI's Feb, Aug and Nov reviews are not marked (closes of Nov 30, 2026, Feb 26, Aug 31 and Nov 30, 2027) because they were not among the huge-volume days.
+
 ## Still to come
 
 - 2027 CPI and NFP dates are not yet published by BLS, so 2027 shows FOMC, options, holidays, Russell and MSCI only. BLS has not announced when it will post them; one third-party tracker expects late 2026 (unconfirmed). Check https://www.bls.gov/schedule/news_release/cpi.htm and https://www.bls.gov/schedule/news_release/empsit.htm.
