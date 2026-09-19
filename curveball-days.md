@@ -12,7 +12,7 @@
 | 18 | **19 H** | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | **28 F** | 29 | 30 | 31 |
 
-### February 2026 (16 clean)
+### February 2026 (15 clean)
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | **29 F** | 30 | 31 |   |
 
-### August 2026 (18 clean)
+### August 2026 (17 clean)
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | **28 F** | 29 | 30 | 31 |
 
-### November 2026 (16 clean)
+### November 2026 (15 clean)
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 - **N**: NFP release
 - **H**: market holiday (closed, or 1:00 PM early close)
 - **R**: Russell reconstitution
-- **M**: MSCI May index review
+- **M**: MSCI index review
 - Two letters together (for example **N/H**) mean events overlap on the same day.
 - **Bold** days throw curveballs at ya.
 - The number in each month heading counts clean days only.
@@ -143,12 +143,12 @@
 
 **D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
 
-**T** covers the quarterly expiration day in Mar, Jun, Sep and Dec. The S&P 500 quarterly rebalance is included. The Nasdaq-100 quarterly rebalance is tied to the same third Friday. When that Friday is a market holiday (Jun 19, 2026; Jun 18, 2027), the rebalance volume shifts to the Thursday close, so **T** sits on the Thursday.
+**T** covers the quarterly expiration day in Mar, Jun, Sep and Dec. The S&P 500 quarterly rebalance is included. The Nasdaq-100 quarterly rebalance is tied to the same third Friday. When that Friday is a market holiday (Jun 19, 2026), the rebalance volume shifts to the Thursday close, so **T** sits on the Thursday.
 
 **H** covers full closures and 1:00 PM early closes. When a release lands on a closed day, both letters show: Apr 3, 2026 is **N/H** (jobs report on Good Friday).
 
-**R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates. Jun 25 and Dec 10, 2027 follow the pattern (fourth Friday of June, second Friday of December) but are not yet announced dates.
+**R**: the Russell US indexes reconstitute twice a year from 2026, in June and December. Jun 26 and Dec 11, 2026 are the announced dates.
 
-**M** is the least certain letter: it rests on two heavy May closes (May 30, 2025; May 29, 2026), while the other MSCI reviews did not produce meaningful volume spikes.
+**M** is the least certain letter: it marks all four MSCI review closes (Feb 27, May 29, Aug 31, Nov 30), but only May has shown heavy volume (May 30, 2025; May 29, 2026). The other three did not produce meaningful volume spikes.
 
 
