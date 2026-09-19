@@ -131,12 +131,12 @@
 
 - **F**: FOMC decision day
 - **T**: triple options expiration (Friday; Thursday in June, when Friday is a market holiday)
+- **R**: Russell reconstitution
 - **C**: CPI release
 - **N**: NFP release
-- **H**: market holiday (closed, or 1:00 PM early close)
-- **R**: Russell reconstitution
 - **M**: MSCI index review
 - **D**: double options expiration
+- **H**: market holiday (closed, or 1:00 PM early close)
 - Two letters together (for example **N/H**) mean events overlap on the same day.
 - The number in each month heading counts clean days only.
 
@@ -146,12 +146,12 @@
 
 **T** covers the quarterly expiration day in Mar, Jun, Sep and Dec. The S&P 500 quarterly rebalance is included. The Nasdaq-100 quarterly rebalance is tied to the same third Friday. When that Friday is a market holiday, the rebalance volume shifts to the Thursday close, so **T** sits on the Thursday.
 
-**H** covers full closures and 1:00 PM early closes. When a release lands on a closed day, both letters show: Apr 3, 2026 is **N/H** (jobs report on Good Friday).
-
 **R**: the Russell US indexes reconstitute twice a year, in June and December.
 
 **M** is the least certain letter: it marks all four MSCI review closes, but only May has shown heavy volume. The other three did not produce meaningful volume spikes.
 
 **D** covers the monthly options expiration Friday in the non-quarter months (Jan, Feb, Apr, May, Jul, Aug, Oct, Nov).
+
+**H** covers full closures and 1:00 PM early closes. When a release lands on a closed day, both letters show: Apr 3, 2026 is **N/H** (jobs report on Good Friday).
 
 
