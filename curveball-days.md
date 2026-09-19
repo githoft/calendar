@@ -1,8 +1,6 @@
-# Where Algos Swing and Miss  
+# Where Algos Can Swing and Miss
 
 #### Bold days throw curveballs at ya ⚾
-
-   
 
 ## 2026 Calendar
 
@@ -129,7 +127,7 @@
 
 #### 51 open-market days carry a curveball ⚾
 
-   
+---
 
 ## What the letters mean
 
